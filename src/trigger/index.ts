@@ -1,3 +1,3 @@
-export function newTrigger(params:type) {
+export function newTrigger(config) {
     
 }
